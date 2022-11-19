@@ -14,4 +14,7 @@ idf_component_register(
         "json"
         "driver"
         "esp_hw_support"
+        "lc709203f"
+        "scd30"
+        "dps310"
 )
